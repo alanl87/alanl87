@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>Consola de Pruebas Javascript</title>
+    <title>Mis bolas</title>
 </head>
 <body>
     <h1>Consola de Pruebas Javascript</h1>
